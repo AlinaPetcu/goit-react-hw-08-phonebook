@@ -2,7 +2,7 @@
   margin-top: 10px;
   display: flex;
   flex-direction: column;
-  color: #0b3d0b;
+  color: #091d3b;
 }
 
 .label .input {
@@ -11,13 +11,13 @@
   font-weight: 500;
   border-radius: 6px;
   font-size: 18px;
-  color: #0b3d0b;
-  border: 1px solid #2e8b57;
+  color: #091d3b;
+  border: 1px solid #3677ac;
   padding: 5px;
 }
 
 .label .input:focus {
-  border-color: #66cdaa;
+  border-color: #3677ac;
   outline: none;
-  background-color: #f0fff0;
+  background-color: #cbe9f7;
 }

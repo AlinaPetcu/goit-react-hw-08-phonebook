@@ -3,14 +3,14 @@
   display: flex;
   flex-direction: column;
   max-width: 200px;
-  color: #0b3d0b;
+  color: #0b213d;
 }
 
 .button {
-  background-color: #2e8b57;
+  background-color: #4dace4;
   color: white;
   border-radius: 7px;
-  border: 2px solid #2e8b57;
+  border: 2px solid #3677ac;
   margin-top: 30px;
   padding: 10px 15px;
   cursor: pointer;
@@ -18,9 +18,9 @@
 }
 
 .button:hover {
-  background-color: #66cdaa;
-  color: #0b3d0b;
-  border-color: #66cdaa;
+    background-color: #24a6e2;
+      color: #0b3d0b;
+      border-color: #166cb3;
 }
 
 .form {
@@ -29,7 +29,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  border: 2px solid #2e8b57;
+  border: 2px solid #3677ac;
   border-radius: 10px;
-  background-color: #f0fff0;
+  background-color: #c4e8f1;
 }

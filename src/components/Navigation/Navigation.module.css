@@ -1,6 +1,10 @@
 .title {
-  color: #0b3d0b;
+  color: #091d3b;
   font-size: 20px;
   font-weight: bold;
   text-align: center;
+}
+
+.nav{
+  margin-top:200px;
 }
